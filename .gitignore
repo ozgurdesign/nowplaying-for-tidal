@@ -1,0 +1,8 @@
+.build/
+*.app/
+.DS_Store
+/nowplaying.png
+*.xcodeproj
+*.xcworkspace
+.swiftpm/
+Package.resolved
