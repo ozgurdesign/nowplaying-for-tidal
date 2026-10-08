@@ -4,10 +4,6 @@ A tiny macOS menu-bar app that shows the track currently playing in the
 [TIDAL](https://tidal.com) desktop app. There wasn't any, so I made one for
 personal use.
 
-<p align="center">
-  <img src="assets/icon-1024.png" width="128" alt="App icon">
-</p>
-
 Shows `♪ Artist - Title` while TIDAL plays, `❙❙` when paused. Menu has
 **Launch at Login** and **Quit**. That's the whole app.
 
