@@ -7,7 +7,7 @@
     <key>CFBundleDisplayName</key>
     <string>Now Playing for TIDAL</string>
     <key>CFBundleIdentifier</key>
-    <string>com.local.nowplayingfortidal</string>
+    <string>ca.ozgur.NowPlayingForTidal</string>
     <key>CFBundleVersion</key>
     <string>1.0</string>
     <key>CFBundleShortVersionString</key>
